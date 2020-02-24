@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TestApp</string>
+    <string name="post_error">was_error_while_loading</string>
+    <string name="text_add_post">Добавить</string>
+    <string name="description_text">Описание (до 3000 символов)</string>
+    <string name="title_text">Название</string>
+</resources>
